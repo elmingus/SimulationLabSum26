@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# RStudio
+.Rproj.user/
+
+# Quarto cache
+.quarto/
+
+# History
+.Rhistory
+.RData
+
+# Temporary files
+*.log
