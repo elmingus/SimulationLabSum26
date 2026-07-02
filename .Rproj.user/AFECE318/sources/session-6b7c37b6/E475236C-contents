@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "UO Simulation Lab"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Patient Summary
+      - href: chart.qmd
+        text: Chart Review
+      - href: vitals.qmd
+        text: Vitals
+      - href: bedside.qmd
+        text: Bedside Contact
+      - href: decision.qmd
+        text: Clinical Decision
+
+format:
+  html:
+    theme: cosmo
+    toc: false
+    page-layout: full
+    css: styles.css

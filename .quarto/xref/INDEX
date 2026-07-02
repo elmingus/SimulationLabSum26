@@ -1,0 +1,20 @@
+{
+  "index.qmd": {
+    "index.html": "fbfcc183"
+  },
+  "chart.qmd": {
+    "chart.html": "6cef3d5c"
+  },
+  "decision.qmd": {
+    "decision.html": "68bbadf7"
+  },
+  "vitals.qmd": {
+    "vitals.html": "03220aad"
+  },
+  "bedside.qmd": {
+    "bedside.html": "c7c5882b"
+  },
+  "about.qmd": {
+    "about.html": "69a7aae1"
+  }
+}
