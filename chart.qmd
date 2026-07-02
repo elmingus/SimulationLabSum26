@@ -142,4 +142,4 @@ Before entering the room, answer the following:
 
 Next, review the patient's current vital signs.
 
-[Go to Vital Signs](vitals.qmd)
+[Go to Vital Signs](vitals.html)
