@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Simulation 1: Initial Patient Contact",
+    "title": "Acute Care Simulation: Patient Chart",
     "section": "",
-    "text": "This simulation introduces foundational acute care skills. You will review the chart, consider medical readiness, attempt initial patient contact, review vital signs, and determine whether the patient is appropriate for further evaluation."
+    "text": "76-year-old male | MRN: 482918 | Location: ICU Bed 12\n\n\nHospital Day\n1\n\n\nDiet Order\nNPO\n\n\nConsult\nSLP Swallow Evaluation\n\n\nCode Status\nFull Code"
   },
   {
     "objectID": "index.html#overview",
@@ -16,9 +16,9 @@
   {
     "objectID": "index.html#learning-objectives",
     "href": "index.html#learning-objectives",
-    "title": "Simulation 1: Initial Patient Contact",
+    "title": "Acute Care Simulation: Patient Chart",
     "section": "Learning Objectives",
-    "text": "Learning Objectives\nBy the end of this simulation, you should be able to:\n\nDemonstrate professional communication and rapport-building.\nGather relevant clinical information.\nPerform foundational assessment procedures.\nIdentify factors that may influence patient care.\nApply beginning clinical reasoning skills.\nEngage in self-reflection and professional growth."
+    "text": "Learning Objectives\nStudents will:\n\nDemonstrate professional communication and rapport-building.\nGather relevant clinical information.\nPerform foundational assessment procedures.\nIdentify factors that may influence patient care.\nApply beginning clinical reasoning skills.\nEngage in self-reflection and professional growth."
   },
   {
     "objectID": "index.html#patient",
@@ -292,5 +292,19 @@
     "title": "Chart Review",
     "section": "Continue",
     "text": "Continue\nNext, review the patient’s current vital signs.\nGo to Vital Signs"
+  },
+  {
+    "objectID": "index.html#simulation-1-initial-patient-contact",
+    "href": "index.html#simulation-1-initial-patient-contact",
+    "title": "Acute Care Simulation: Patient Chart",
+    "section": "Simulation 1: Initial Patient Contact",
+    "text": "Simulation 1: Initial Patient Contact\nThis simulation introduces foundational skills required for acute care assessment. You will review the chart, interpret vital signs, attempt initial patient contact, and determine whether the patient is appropriate for further evaluation.\n\nClinical task: Determine whether Mr. Walker is appropriate for a full oral mechanism examination and clinical swallowing evaluation today."
+  },
+  {
+    "objectID": "index.html#open-the-chart",
+    "href": "index.html#open-the-chart",
+    "title": "Acute Care Simulation: Patient Chart",
+    "section": "Open the Chart",
+    "text": "Open the Chart\n\n\n📋 Chart Review\nReview history, diagnosis, orders, medications, and nursing report.\nOpen Chart Review\n\n\n📈 Vital Signs\nReview current vital signs and clinical readiness.\nOpen Vitals\n\n\n🗣 Bedside Contact\nReview patient presentation and oral mechanism exam attempt.\nOpen Bedside Contact\n\n\n🧠 Clinical Decision\nDetermine recommendations and documentation plan.\nOpen Clinical Decision"
   }
 ]
