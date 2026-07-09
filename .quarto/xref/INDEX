@@ -16,5 +16,47 @@
   },
   "about.qmd": {
     "about.html": "69a7aae1"
+  },
+  "resources/index.qmd": {
+    "index.html": "ffbe380a"
+  },
+  "simulations/sim2/implications.qmd": {
+    "implications.html": "755d506d"
+  },
+  "simulations/sim2/readiness.qmd": {
+    "readiness.html": "e361d0f1"
+  },
+  "simulations/sim2/chart.qmd": {
+    "chart.html": "542394ee"
+  },
+  "simulations/sim2/vitals.qmd": {
+    "vitals.html": "1734b1e3"
+  },
+  "simulations/sim2/interdisciplinary.qmd": {
+    "interdisciplinary.html": "333aba29"
+  },
+  "simulations/sim2/index.qmd": {
+    "index.html": "a766b836"
+  },
+  "simulations/sim1/chart.qmd": {
+    "chart.html": "5ddc781d"
+  },
+  "simulations/sim1/decision.qmd": {
+    "decision.html": "af40e2d1"
+  },
+  "simulations/sim1/vitals.qmd": {
+    "vitals.html": "c561da5c"
+  },
+  "simulations/sim1/index.qmd": {
+    "index.html": "87682035"
+  },
+  "simulations/sim1/bedside.qmd": {
+    "bedside.html": "8044962b"
+  },
+  "simulations/sim1/about.qmd": {
+    "about.html": "e24cf2fe"
+  },
+  "instructor/index.qmd": {
+    "index.html": "990c6cda"
   }
 }

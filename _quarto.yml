@@ -7,15 +7,15 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Patient Summary
-      - href: chart.qmd
-        text: Chart Review
-      - href: vitals.qmd
-        text: Vitals
-      - href: bedside.qmd
-        text: Bedside Contact
-      - href: decision.qmd
-        text: Clinical Decision
+        text: Home
+      - href: simulations/sim1/index.qmd
+        text: Simulation 1
+      - href: simulations/sim2/index.qmd
+        text: Simulation 2
+      - href: resources/index.qmd
+        text: Resources
+      - href: instructor/index.qmd
+        text: Instructor
 
 format:
   html:
