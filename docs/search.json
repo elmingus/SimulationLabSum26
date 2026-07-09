@@ -695,9 +695,9 @@
   {
     "objectID": "simulations/sim2/index.html",
     "href": "simulations/sim2/index.html",
-    "title": "Acute Care Simulation: Patient Chart",
+    "title": "Simulation 2: Cognitive Screening",
     "section": "",
-    "text": "76-year-old male | MRN: 482918 | Location: ICU Bed 12\n\n\nHospital Day\n1\n\n\nDiet Order\nNPO\n\n\nConsult\nSLP Swallow Evaluation\n\n\nCode Status\nFull Code"
+    "text": "92-year-old female | DOB: 09/10/1932 | Location: Acute Care / Neuro Unit\n\n\nHospital Day\n1\n\n\nPrimary Diagnosis\nRight MCA Ischemic Stroke\n\n\nConsult\nSLP Cognitive-Communication Evaluation\n\n\nPrior Function\nIndependent"
   },
   {
     "objectID": "simulations/sim2/index.html#simulation-1-initial-patient-contact",
@@ -789,5 +789,54 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "simulations/sim2/index.html#simulation-2-cognitive-screening",
+    "href": "simulations/sim2/index.html#simulation-2-cognitive-screening",
+    "title": "Simulation 2: Cognitive Screening",
+    "section": "Simulation 2: Cognitive Screening",
+    "text": "Simulation 2: Cognitive Screening\nThis simulation focuses on chart review, clinical readiness for cognitive screening, and functional implications of cognitive-communication findings following right hemisphere stroke.\n\nClinical task: Determine whether Cindy is appropriate for cognitive screening today. If appropriate, administer the MoCA during simulation and use results to describe functional implications."
+  },
+  {
+    "objectID": "simulations/sim2/index.html#learning-focus",
+    "href": "simulations/sim2/index.html#learning-focus",
+    "title": "Simulation 2: Cognitive Screening",
+    "section": "Learning Focus",
+    "text": "Learning Focus\nStudents will:\n\nGather relevant clinical information from the medical chart.\nIdentify cognitive-communication risk factors after right MCA stroke.\nDetermine whether the patient is appropriate for cognitive screening.\nConnect cognitive domains to functional skills and discharge planning.\nCommunicate findings using medical and patient-centered language."
+  },
+  {
+    "objectID": "simulations/sim2/index.html#simulation-workflow",
+    "href": "simulations/sim2/index.html#simulation-workflow",
+    "title": "Simulation 2: Cognitive Screening",
+    "section": "Simulation Workflow",
+    "text": "Simulation Workflow\n\n\n\n📋 Step 1\n\n\nChart Review\nReview the H&P, imaging, medications, prior level of function, and current plan of care.\nBegin Chart Review\n\n\n\n\n🏥 Step 2\n\n\nInterdisciplinary Notes\nReview nursing, OT/PT, and medical notes for functional concerns.\nReview Notes\n\n\n\n\n🧠 Step 3\n\n\nScreening Readiness\nDetermine whether Cindy is appropriate for MoCA administration today.\nAssess Readiness\n\n\n\n\n🔎 Step 4\n\n\nFunctional Implications\nUse cognitive domains to connect screening results to real-world function.\nReview Implications"
+  },
+  {
+    "objectID": "simulations/sim2/index.html#chart-review",
+    "href": "simulations/sim2/index.html#chart-review",
+    "title": "Simulation 2: Cognitive Screening",
+    "section": "Chart Review",
+    "text": "Chart Review\nReview the H&P, imaging, medications, prior level of function, and current plan of care.\nBegin Chart Review"
+  },
+  {
+    "objectID": "simulations/sim2/index.html#interdisciplinary-notes",
+    "href": "simulations/sim2/index.html#interdisciplinary-notes",
+    "title": "Simulation 2: Cognitive Screening",
+    "section": "Interdisciplinary Notes",
+    "text": "Interdisciplinary Notes\nReview nursing, OT/PT, and medical notes for functional concerns.\nReview Notes"
+  },
+  {
+    "objectID": "simulations/sim2/index.html#screening-readiness",
+    "href": "simulations/sim2/index.html#screening-readiness",
+    "title": "Simulation 2: Cognitive Screening",
+    "section": "Screening Readiness",
+    "text": "Screening Readiness\nDetermine whether Cindy is appropriate for MoCA administration today.\nAssess Readiness"
+  },
+  {
+    "objectID": "simulations/sim2/index.html#functional-implications",
+    "href": "simulations/sim2/index.html#functional-implications",
+    "title": "Simulation 2: Cognitive Screening",
+    "section": "Functional Implications",
+    "text": "Functional Implications\nUse cognitive domains to connect screening results to real-world function.\nReview Implications"
   }
 ]
