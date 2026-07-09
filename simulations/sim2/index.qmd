@@ -1,11 +1,11 @@
 ---
-title: "Acute Care Simulation: Patient Chart"
+title: "Simulation 2: Cognitive Screening"
 ---
 
 ::: {.patient-banner}
-# James Walker
+# Cindy Carlson
 
-**76-year-old male** | **MRN:** 482918 | **Location:** ICU Bed 12
+**92-year-old female** | **DOB:** 09/10/1932 | **Location:** Acute Care / Neuro Unit
 
 ::: {.banner-grid}
 ::: {.banner-item}
@@ -14,67 +14,78 @@ title: "Acute Care Simulation: Patient Chart"
 :::
 
 ::: {.banner-item}
-**Diet Order**  
-NPO
+**Primary Diagnosis**  
+Right MCA Ischemic Stroke
 :::
 
 ::: {.banner-item}
 **Consult**  
-SLP Swallow Evaluation
+SLP Cognitive-Communication Evaluation
 :::
 
 ::: {.banner-item}
-**Code Status**  
-Full Code
+**Prior Function**  
+Independent
 :::
 :::
 :::
 
-## Simulation 1: Initial Patient Contact
+## Simulation 2: Cognitive Screening
 
-This simulation introduces foundational skills required for acute care assessment. You will review the chart, interpret vital signs, attempt initial patient contact, and determine whether the patient is appropriate for further evaluation.
+This simulation focuses on chart review, clinical readiness for cognitive screening, and functional implications of cognitive-communication findings following right hemisphere stroke.
 
 ::: {.warning}
-**Clinical task:** Determine whether Mr. Walker is appropriate for a full oral mechanism examination and clinical swallowing evaluation today.
+**Clinical task:** Determine whether Cindy is appropriate for cognitive screening today. If appropriate, administer the MoCA during simulation and use results to describe functional implications.
 :::
 
-## Learning Objectives
+## Learning Focus
 
 Students will:
 
-- Demonstrate professional communication and rapport-building.
-- Gather relevant clinical information.
-- Perform foundational assessment procedures.
-- Identify factors that may influence patient care.
-- Apply beginning clinical reasoning skills.
-- Engage in self-reflection and professional growth.
+- Gather relevant clinical information from the medical chart.
+- Identify cognitive-communication risk factors after right MCA stroke.
+- Determine whether the patient is appropriate for cognitive screening.
+- Connect cognitive domains to functional skills and discharge planning.
+- Communicate findings using medical and patient-centered language.
 
-## Open the Chart
+## Simulation Workflow
 
 ::: {.card-grid}
 
 ::: {.chart-card}
-### 📋 Chart Review
-Review history, diagnosis, orders, medications, and nursing report.  
-[Open Chart Review](chart.html)
+### 📋 Step 1  
+## Chart Review
+
+Review the H&P, imaging, medications, prior level of function, and current plan of care.
+
+[Begin Chart Review](chart.qmd)
 :::
 
 ::: {.chart-card}
-### 📈 Vital Signs
-Review current vital signs and clinical readiness.  
-[Open Vitals](vitals.html)
+### 🏥 Step 2  
+## Interdisciplinary Notes
+
+Review nursing, OT/PT, and medical notes for functional concerns.
+
+[Review Notes](interdisciplinary.qmd)
 :::
 
 ::: {.chart-card}
-### 🗣 Bedside Contact
-Review patient presentation and oral mechanism exam attempt.  
-[Open Bedside Contact](bedside.html)
+### 🧠 Step 3  
+## Screening Readiness
+
+Determine whether Cindy is appropriate for MoCA administration today.
+
+[Assess Readiness](readiness.qmd)
 :::
 
 ::: {.chart-card}
-### 🧠 Clinical Decision
-Determine recommendations and documentation plan.  
-[Open Clinical Decision](decision.html)
+### 🔎 Step 4  
+## Functional Implications
+
+Use cognitive domains to connect screening results to real-world function.
+
+[Review Implications](implications.qmd)
 :::
 
 :::
