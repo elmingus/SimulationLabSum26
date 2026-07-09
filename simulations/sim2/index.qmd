@@ -58,7 +58,7 @@ Students will:
 
 Review the H&P, imaging, medications, prior level of function, and current plan of care.
 
-[Begin Chart Review](chart.qmd)
+[Begin Chart Review](chart.html)
 :::
 
 ::: {.chart-card}
@@ -67,7 +67,7 @@ Review the H&P, imaging, medications, prior level of function, and current plan 
 
 Review nursing, OT/PT, and medical notes for functional concerns.
 
-[Review Notes](interdisciplinary.qmd)
+[Review Notes](interdisciplinary.html)
 :::
 
 ::: {.chart-card}
@@ -76,7 +76,7 @@ Review nursing, OT/PT, and medical notes for functional concerns.
 
 Determine whether Cindy is appropriate for MoCA administration today.
 
-[Assess Readiness](readiness.qmd)
+[Assess Readiness](readiness.html)
 :::
 
 ::: {.chart-card}
@@ -85,7 +85,7 @@ Determine whether Cindy is appropriate for MoCA administration today.
 
 Use cognitive domains to connect screening results to real-world function.
 
-[Review Implications](implications.qmd)
+[Review Implications](implications.html)
 :::
 
 :::
