@@ -5,6 +5,7 @@
 .Rproj.user/
 .Rhistory
 .RData
+^x
 
 # Quarto temporary/cache files
 .quarto/
@@ -12,3 +13,6 @@ _site/
 
 # Temporary files
 *.log
+
+cat .gitignore
+
