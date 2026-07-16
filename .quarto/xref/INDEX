@@ -58,5 +58,20 @@
   },
   "instructor/index.qmd": {
     "index.html": "990c6cda"
+  },
+  "simulations/sim3/implications.qmd": {
+    "implications.html": "be58c34d"
+  },
+  "simulations/sim3/chart.qmd": {
+    "chart.html": "fab41ce8"
+  },
+  "simulations/sim3/interdisciplinary.qmd": {
+    "interdisciplinary.html": "5fa4a3b7"
+  },
+  "simulations/sim3/index.qmd": {
+    "index.html": "67afc48c"
+  },
+  "simulations/sim3/communication.qmd": {
+    "communication.html": "64804a62"
   }
 }

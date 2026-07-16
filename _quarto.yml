@@ -13,6 +13,8 @@ website:
       - href: simulations/sim2/index.qmd
         text: Simulation 2
       - href: resources/index.qmd
+      - href: simulations/sim3/index.qmd
+        text: Simulation 3
         text: Resources
       - href: instructor/index.qmd
         text: Instructor

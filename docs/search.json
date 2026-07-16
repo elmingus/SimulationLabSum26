@@ -11,7 +11,7 @@
     "href": "index.html",
     "title": "UO Acute Care Simulation Lab",
     "section": "",
-    "text": "Welcome to the University of Oregon Acute Care Simulation Lab.\nSelect a simulation below to begin.\n\n\n\n\n\nAcute ischemic stroke with altered mental status.\nStudents will complete:\n\nPatient Summary\nChart Review\nVital Signs\nBedside Contact\nClinical Impression & Recommendations\n\nBegin Simulation\n\n\n\n\n\n\nRight MCA ischemic stroke with left neglect, fluctuating orientation, and memory concerns.\nStudents will complete:\n\nPatient Summary\nChart Review\nInterdisciplinary Notes\nScreening Readiness\nFunctional Implications\n\nBegin Simulation 2\n\n\n\n\n\n\nComing Soon\n\n\n\n\n\n\nComing Soon\n\n\n\n\n\n\nComing Soon\n\n\n\n\n\n\nComing Soon"
+    "text": "Welcome to the University of Oregon Acute Care Simulation Lab.\nSelect a simulation below to begin.\n\n\n\n\n\nAcute ischemic stroke with altered mental status.\nStudents will complete:\n\nPatient Summary\nChart Review\nVital Signs\nBedside Contact\nClinical Impression & Recommendations\n\nBegin Simulation\n\n\n\n\n\n\nRight MCA ischemic stroke with left neglect, fluctuating orientation, and memory concerns.\nStudents will complete:\n\nPatient Summary\nChart Review\nInterdisciplinary Notes\nScreening Readiness\nFunctional Implications\n\nBegin Simulation\n\n\n\n\n\n\nLeft hemisphere stroke with expressive and receptive aphasia following re-hospitalization after a fall.\nStudents will complete:\n\nPatient Summary\nChart Review\nInterdisciplinary Notes\nCommunication Considerations\nFunctional Implications\n\nBegin Simulation\n\n\n\n\n\n\nComing Soon\n\n\n\n\n\n\nComing Soon\n\n\n\n\n\n\nComing Soon"
   },
   {
     "objectID": "index.html#simulation-1-initial-patient-contact",
@@ -242,14 +242,14 @@
     "href": "index.html#simulation-2",
     "title": "UO Acute Care Simulation Lab",
     "section": "",
-    "text": "Right MCA ischemic stroke with left neglect, fluctuating orientation, and memory concerns.\nStudents will complete:\n\nPatient Summary\nChart Review\nInterdisciplinary Notes\nScreening Readiness\nFunctional Implications\n\nBegin Simulation 2"
+    "text": "Right MCA ischemic stroke with left neglect, fluctuating orientation, and memory concerns.\nStudents will complete:\n\nPatient Summary\nChart Review\nInterdisciplinary Notes\nScreening Readiness\nFunctional Implications\n\nBegin Simulation"
   },
   {
     "objectID": "index.html#simulation-3",
     "href": "index.html#simulation-3",
     "title": "UO Acute Care Simulation Lab",
     "section": "",
-    "text": "Coming Soon"
+    "text": "Left hemisphere stroke with expressive and receptive aphasia following re-hospitalization after a fall.\nStudents will complete:\n\nPatient Summary\nChart Review\nInterdisciplinary Notes\nCommunication Considerations\nFunctional Implications\n\nBegin Simulation"
   },
   {
     "objectID": "index.html#simulation-4",
@@ -838,5 +838,257 @@
     "title": "Simulation 2: Cognitive Screening",
     "section": "Functional Implications",
     "text": "Functional Implications\nUse cognitive domains to connect screening results to real-world function.\nReview Implications"
+  },
+  {
+    "objectID": "simulations/sim3/index.html",
+    "href": "simulations/sim3/index.html",
+    "title": "Simulation 3: Aphasia Assessment",
+    "section": "",
+    "text": "54-year-old male | DOB: 02/14/1994 | Location: Acute Care / Medical Unit\n\n\nHospital Day 1\n\n\nPrimary Diagnosis Fall with history of Left CVA\n\n\nConsult SLP Language Evaluation\n\n\nPrior Function Independent with Family Support"
+  },
+  {
+    "objectID": "simulations/sim3/index.html#simulation-3-aphasia-assessment",
+    "href": "simulations/sim3/index.html#simulation-3-aphasia-assessment",
+    "title": "Simulation 3: Aphasia Assessment",
+    "section": "Simulation 3: Aphasia Assessment",
+    "text": "Simulation 3: Aphasia Assessment\nThis simulation focuses on reviewing the medical chart, identifying communication barriers following a left hemisphere stroke, and preparing to administer a language assessment.\n\nClinical Task: Determine whether Steve is appropriate for language assessment, identify communication supports, and prepare to administer the Quick Aphasia Battery (QAB) during simulation."
+  },
+  {
+    "objectID": "simulations/sim3/index.html#learning-focus",
+    "href": "simulations/sim3/index.html#learning-focus",
+    "title": "Simulation 3: Aphasia Assessment",
+    "section": "Learning Focus",
+    "text": "Learning Focus\nStudents will:\n\nReview relevant medical information for a language evaluation.\nIdentify characteristics associated with aphasia.\nDetermine appropriate communication strategies prior to assessment.\nInterpret interdisciplinary documentation.\nConnect language deficits to functional communication."
+  },
+  {
+    "objectID": "simulations/sim3/index.html#simulation-workflow",
+    "href": "simulations/sim3/index.html#simulation-workflow",
+    "title": "Simulation 3: Aphasia Assessment",
+    "section": "Simulation Workflow",
+    "text": "Simulation Workflow\n\n\n\n📋 Step 1\n\n\nChart Review\nReview Steve’s medical history, current hospitalization, medications, and reason for consult.\nBegin Chart Review\n\n\n\n\n🏥 Step 2\n\n\nInterdisciplinary Notes\nReview documentation from nursing, PT, OT, and the physician.\nReview Notes\n\n\n\n\n💬 Step 3\n\n\nCommunication Considerations\nPlan how to communicate effectively before beginning language assessment.\nCommunication Strategies\n\n\n\n\n🧠 Step 4\n\n\nFunctional Implications\nRelate language deficits to daily communication and discharge planning.\nFunctional Implications"
+  },
+  {
+    "objectID": "simulations/sim3/index.html#chart-review",
+    "href": "simulations/sim3/index.html#chart-review",
+    "title": "Simulation 3: Aphasia Assessment",
+    "section": "Chart Review",
+    "text": "Chart Review\nReview Steve’s medical history, current hospitalization, medications, and reason for consult.\nBegin Chart Review"
+  },
+  {
+    "objectID": "simulations/sim3/index.html#interdisciplinary-notes",
+    "href": "simulations/sim3/index.html#interdisciplinary-notes",
+    "title": "Simulation 3: Aphasia Assessment",
+    "section": "Interdisciplinary Notes",
+    "text": "Interdisciplinary Notes\nReview documentation from nursing, PT, OT, and the physician.\nReview Notes"
+  },
+  {
+    "objectID": "simulations/sim3/index.html#communication-considerations",
+    "href": "simulations/sim3/index.html#communication-considerations",
+    "title": "Simulation 3: Aphasia Assessment",
+    "section": "Communication Considerations",
+    "text": "Communication Considerations\nPlan how to communicate effectively before beginning language assessment.\nCommunication Strategies"
+  },
+  {
+    "objectID": "simulations/sim3/index.html#functional-implications",
+    "href": "simulations/sim3/index.html#functional-implications",
+    "title": "Simulation 3: Aphasia Assessment",
+    "section": "Functional Implications",
+    "text": "Functional Implications\nRelate language deficits to daily communication and discharge planning.\nFunctional Implications"
+  },
+  {
+    "objectID": "simulations/sim3/chart.html",
+    "href": "simulations/sim3/chart.html",
+    "title": "Chart Review",
+    "section": "",
+    "text": "54-year-old male | Consult: Language Evaluation"
+  },
+  {
+    "objectID": "simulations/sim3/chart.html#patient-snapshot",
+    "href": "simulations/sim3/chart.html#patient-snapshot",
+    "title": "Chart Review",
+    "section": "Patient Snapshot",
+    "text": "Patient Snapshot\n\n\n\nField\nInformation\n\n\n\n\nName\nSteven “Steve” Thompson\n\n\nAge\n54\n\n\nDate of Admission\nCurrent hospitalization\n\n\nAdmitting Diagnosis\nFall with mild hip contusion\n\n\nPrimary SLP Diagnosis\nMild expressive and receptive aphasia\n\n\nPrior Stroke\nLeft ischemic CVA (2 years ago)"
+  },
+  {
+    "objectID": "simulations/sim3/chart.html#chief-concern",
+    "href": "simulations/sim3/chart.html#chief-concern",
+    "title": "Chart Review",
+    "section": "Chief Concern",
+    "text": "Chief Concern\n\nSteve was re-hospitalized following a fall at home. Although imaging showed no fractures, his previous left hemisphere stroke resulted in persistent expressive and receptive language deficits. Speech-Language Pathology was consulted to evaluate current communication abilities."
+  },
+  {
+    "objectID": "simulations/sim3/chart.html#past-medical-history",
+    "href": "simulations/sim3/chart.html#past-medical-history",
+    "title": "Chart Review",
+    "section": "Past Medical History",
+    "text": "Past Medical History\n\n\n\nCondition\nStatus\n\n\n\n\nLeft CVA (ischemic)\nTwo years prior\n\n\nHypertension\nControlled\n\n\nOsteoarthritis\nChronic\n\n\nHypothyroidism\nManaged\n\n\nHearing Loss\nModerate; hearing aids available"
+  },
+  {
+    "objectID": "simulations/sim3/chart.html#current-medications",
+    "href": "simulations/sim3/chart.html#current-medications",
+    "title": "Chart Review",
+    "section": "Current Medications",
+    "text": "Current Medications\n\n\n\nMedication\nPurpose\n\n\n\n\nLisinopril\nHypertension\n\n\nLevothyroxine\nHypothyroidism\n\n\nAcetaminophen\nArthritis pain"
+  },
+  {
+    "objectID": "simulations/sim3/chart.html#social-history",
+    "href": "simulations/sim3/chart.html#social-history",
+    "title": "Chart Review",
+    "section": "Social History",
+    "text": "Social History\n\n\n\nArea\nInformation\n\n\n\n\nLiving Situation\nLives alone\n\n\nSupport\nFamily nearby\n\n\nPrior Function\nIndependent with ADLs\n\n\nMobility\nOccasionally used a cane"
+  },
+  {
+    "objectID": "simulations/sim3/chart.html#chart-review-questions",
+    "href": "simulations/sim3/chart.html#chart-review-questions",
+    "title": "Chart Review",
+    "section": "Chart Review Questions",
+    "text": "Chart Review Questions\n\nWhy was Speech-Language Pathology consulted?\nWhat medical history increases Steve’s risk for aphasia?\nWhat factors besides aphasia may influence communication?\nWhat additional information would you want before beginning assessment?"
+  },
+  {
+    "objectID": "simulations/sim3/chart.html#continue",
+    "href": "simulations/sim3/chart.html#continue",
+    "title": "Chart Review",
+    "section": "Continue",
+    "text": "Continue\nGo to Interdisciplinary Notes"
+  },
+  {
+    "objectID": "simulations/sim3/implications.html",
+    "href": "simulations/sim3/implications.html",
+    "title": "Functional Implications",
+    "section": "",
+    "text": "Focus: Language and Functional Communication"
+  },
+  {
+    "objectID": "simulations/sim3/implications.html#connecting-language-to-daily-function",
+    "href": "simulations/sim3/implications.html#connecting-language-to-daily-function",
+    "title": "Functional Implications",
+    "section": "Connecting Language to Daily Function",
+    "text": "Connecting Language to Daily Function\nFollowing completion of the Quick Aphasia Battery, consider how Steve’s communication abilities may influence daily participation and discharge planning."
+  },
+  {
+    "objectID": "simulations/sim3/implications.html#functional-communication-guide",
+    "href": "simulations/sim3/implications.html#functional-communication-guide",
+    "title": "Functional Implications",
+    "section": "Functional Communication Guide",
+    "text": "Functional Communication Guide\n\n\n\n\n\n\n\nLanguage Domain\nPossible Functional Impact\n\n\n\n\nAuditory Comprehension\nDifficulty understanding medical information and multi-step directions\n\n\nVerbal Expression\nDifficulty communicating wants, needs, and concerns\n\n\nNaming\nIncreased pauses and frustration during conversation\n\n\nRepetition\nDifficulty repeating unfamiliar medical terminology\n\n\nReading\nDifficulty interpreting discharge paperwork or medication instructions\n\n\nWriting\nDifficulty completing written forms or communicating by writing\n\n\n\n\nAphasia affects language—not intelligence. Communication supports should maximize participation while preserving patient autonomy."
+  },
+  {
+    "objectID": "simulations/sim3/implications.html#clinical-impression-prompts",
+    "href": "simulations/sim3/implications.html#clinical-impression-prompts",
+    "title": "Functional Implications",
+    "section": "Clinical Impression Prompts",
+    "text": "Clinical Impression Prompts\nFollowing the QAB, consider:\n\nWhich language domains appear most impaired?\nHow may these deficits affect safety during hospitalization?\nWhat communication supports should staff and family use?\nWhat recommendations would you include in your documentation?"
+  },
+  {
+    "objectID": "simulations/sim3/implications.html#possible-recommendations",
+    "href": "simulations/sim3/implications.html#possible-recommendations",
+    "title": "Functional Implications",
+    "section": "Possible Recommendations",
+    "text": "Possible Recommendations\n\nContinue speech-language pathology intervention.\nEducate staff regarding supported communication strategies.\nEncourage use of multimodal communication.\nProvide written information in simplified format.\nInclude family in communication strategy education.\nRecommend continued outpatient or inpatient language therapy as appropriate.\n\n\nClinical Takeaway\nAssessment results should extend beyond test scores to describe how language deficits affect meaningful participation in everyday communication."
+  },
+  {
+    "objectID": "simulations/sim3/interdisciplinary.html",
+    "href": "simulations/sim3/interdisciplinary.html",
+    "title": "Interdisciplinary Notes",
+    "section": "",
+    "text": "SLP Consult: Language Evaluation"
+  },
+  {
+    "objectID": "simulations/sim3/interdisciplinary.html#nursing-note",
+    "href": "simulations/sim3/interdisciplinary.html#nursing-note",
+    "title": "Interdisciplinary Notes",
+    "section": "Nursing Note",
+    "text": "Nursing Note\n\nSteve is pleasant and cooperative throughout the shift. Frequently pauses during conversation and appears frustrated when unable to find desired words. Follows simple directions with occasional repetition. Family reports communication appears similar to his baseline following his previous stroke."
+  },
+  {
+    "objectID": "simulations/sim3/interdisciplinary.html#physical-therapy",
+    "href": "simulations/sim3/interdisciplinary.html#physical-therapy",
+    "title": "Interdisciplinary Notes",
+    "section": "Physical Therapy",
+    "text": "Physical Therapy\n\nPatient ambulates short distances with contact guard assistance secondary to hip pain. Demonstrates good participation in therapy. Able to follow one-step commands consistently but requires repetition for more complex directions."
+  },
+  {
+    "objectID": "simulations/sim3/interdisciplinary.html#occupational-therapy",
+    "href": "simulations/sim3/interdisciplinary.html#occupational-therapy",
+    "title": "Interdisciplinary Notes",
+    "section": "Occupational Therapy",
+    "text": "Occupational Therapy\n\nPatient independently completes basic grooming with additional time. Difficulty reading written instructions. Performs better when demonstrations accompany verbal directions."
+  },
+  {
+    "objectID": "simulations/sim3/interdisciplinary.html#physician-progress-note",
+    "href": "simulations/sim3/interdisciplinary.html#physician-progress-note",
+    "title": "Interdisciplinary Notes",
+    "section": "Physician Progress Note",
+    "text": "Physician Progress Note\n\nHistory of left hemisphere ischemic stroke with residual mild aphasia. No evidence of new neurological injury following current fall. SLP consulted to reassess communication abilities during hospitalization."
+  },
+  {
+    "objectID": "simulations/sim3/interdisciplinary.html#family-report",
+    "href": "simulations/sim3/interdisciplinary.html#family-report",
+    "title": "Interdisciplinary Notes",
+    "section": "Family Report",
+    "text": "Family Report\n\nFamily reports Steve has remained largely independent since his stroke but occasionally struggles with word finding, especially when tired or stressed. They deny significant decline in cognition."
+  },
+  {
+    "objectID": "simulations/sim3/interdisciplinary.html#slp-relevant-flags",
+    "href": "simulations/sim3/interdisciplinary.html#slp-relevant-flags",
+    "title": "Interdisciplinary Notes",
+    "section": "SLP-Relevant Flags",
+    "text": "SLP-Relevant Flags\n\nConsider:\n\nExpressive aphasia\nMild receptive deficits\nHearing loss\nFatigue\nEmotional frustration during communication"
+  },
+  {
+    "objectID": "simulations/sim3/interdisciplinary.html#pause-and-think",
+    "href": "simulations/sim3/interdisciplinary.html#pause-and-think",
+    "title": "Interdisciplinary Notes",
+    "section": "Pause and Think",
+    "text": "Pause and Think\n\nWhich findings support language assessment?\nWhich findings suggest cognition may be relatively preserved?\nHow may hearing loss influence assessment?"
+  },
+  {
+    "objectID": "simulations/sim3/interdisciplinary.html#continue",
+    "href": "simulations/sim3/interdisciplinary.html#continue",
+    "title": "Interdisciplinary Notes",
+    "section": "Continue",
+    "text": "Continue\nCommunication Considerations"
+  },
+  {
+    "objectID": "simulations/sim3/communication.html",
+    "href": "simulations/sim3/communication.html",
+    "title": "Communication Considerations",
+    "section": "",
+    "text": "Assessment: Quick Aphasia Battery (QAB)"
+  },
+  {
+    "objectID": "simulations/sim3/communication.html#preparing-for-assessment",
+    "href": "simulations/sim3/communication.html#preparing-for-assessment",
+    "title": "Communication Considerations",
+    "section": "Preparing for Assessment",
+    "text": "Preparing for Assessment\nBefore beginning language testing, consider how communication strategies may improve participation and provide a more accurate representation of Steve’s language abilities."
+  },
+  {
+    "objectID": "simulations/sim3/communication.html#current-presentation",
+    "href": "simulations/sim3/communication.html#current-presentation",
+    "title": "Communication Considerations",
+    "section": "Current Presentation",
+    "text": "Current Presentation\n\nSteve greets you with a smile and attempts conversation. His speech is fluent but interrupted by frequent word-finding pauses. He occasionally substitutes incorrect words and appears aware of communication breakdowns. He becomes visibly frustrated when unable to express himself."
+  },
+  {
+    "objectID": "simulations/sim3/communication.html#clinical-considerations",
+    "href": "simulations/sim3/communication.html#clinical-considerations",
+    "title": "Communication Considerations",
+    "section": "Clinical Considerations",
+    "text": "Clinical Considerations\nBefore administering the QAB:\n\nConfirm hearing aids are available and functioning.\nReduce background noise.\nUse short, clear sentences.\nPresent one task at a time.\nAllow extra response time.\nAvoid interrupting attempts to communicate.\nSupport communication with gestures or written keywords as appropriate.\nVerify comprehension throughout the interaction.\n\n\nClinical Pearl\nPeople with aphasia often understand more than they are able to express. Reduced verbal output should not automatically be interpreted as impaired cognition."
+  },
+  {
+    "objectID": "simulations/sim3/communication.html#pause-and-think",
+    "href": "simulations/sim3/communication.html#pause-and-think",
+    "title": "Communication Considerations",
+    "section": "Pause and Think",
+    "text": "Pause and Think\n\nWhich communication supports will be most important?\nWhat barriers could affect test performance?\nHow will you respond if Steve becomes frustrated?"
+  },
+  {
+    "objectID": "simulations/sim3/communication.html#continue",
+    "href": "simulations/sim3/communication.html#continue",
+    "title": "Communication Considerations",
+    "section": "Continue",
+    "text": "Continue\nFunctional Implications"
   }
 ]

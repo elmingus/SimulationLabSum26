@@ -3,14 +3,12 @@
 
 # RStudio
 .Rproj.user/
-
-# Quarto cache
-.quarto/
-
-# History
 .Rhistory
 .RData
 
+# Quarto temporary/cache files
+.quarto/
+_site/
+
 # Temporary files
 *.log
-/.quarto/

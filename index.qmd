@@ -44,16 +44,26 @@ Students will complete:
 - Screening Readiness
 - Functional Implications
 
-[Begin Simulation 2](simulations/sim2/index.qmd)
+[Begin Simulation](simulations/sim2/index.qmd)
 
 :::
 
 ::: {.chart-card}
 ## 💬 Simulation 3
 
-### Aphasia Evaluation
+### Aphasia Assessment
 
-**Coming Soon**
+Left hemisphere stroke with expressive and receptive aphasia following re-hospitalization after a fall.
+
+Students will complete:
+
+- Patient Summary
+- Chart Review
+- Interdisciplinary Notes
+- Communication Considerations
+- Functional Implications
+
+[Begin Simulation](simulations/sim3/index.qmd)
 
 :::
 
