@@ -340,7 +340,7 @@
     "href": "index.html",
     "title": "UO Acute Care Simulation Lab",
     "section": "",
-    "text": "Welcome to the University of Oregon Acute Care Simulation Lab.\nSelect a simulation below to begin.\n\n\n\n\n\nAcute ischemic stroke with altered mental status.\nStudents will complete:\n\nPatient Summary\nChart Review\nVital Signs\nBedside Contact\nClinical Impression & Recommendations\n\nBegin Simulation\n\n\n\n\n\n\nRight MCA ischemic stroke with left neglect, fluctuating orientation, and memory concerns.\nStudents will complete:\n\nPatient Summary\nChart Review\nInterdisciplinary Notes\nScreening Readiness\nFunctional Implications\n\nBegin Simulation\n\n\n\n\n\n\nLeft hemisphere stroke with expressive and receptive aphasia following re-hospitalization after a fall.\nStudents will complete:\n\nPatient Summary\nChart Review\nInterdisciplinary Notes\nCommunication Considerations\nFunctional Implications\n\nBegin Simulation\n\n\n\n\n\n\nComing Soon\n\n\n\n\n\n\nComing Soon\n\n\n\n\n\n\nComing Soon"
+    "text": "Welcome to the University of Oregon Acute Care Simulation Lab.\nSelect a simulation below to begin.\n\n\n\n\n\nAcute ischemic stroke with altered mental status.\nStudents will complete:\n\nPatient Summary\nChart Review\nVital Signs\nBedside Contact\nClinical Impression & Recommendations\n\nBegin Simulation\n\n\n\n\n\n\nRight MCA ischemic stroke with left neglect, fluctuating orientation, and memory concerns.\nStudents will complete:\n\nPatient Summary\nChart Review\nInterdisciplinary Notes\nScreening Readiness\nFunctional Implications\n\nBegin Simulation\n\n\n\n\n\n\nLeft hemisphere stroke with expressive and receptive aphasia following re-hospitalization after a fall.\nStudents will complete:\n\nPatient Summary\nChart Review\nInterdisciplinary Notes\nCommunication Considerations\nFunctional Implications\n\nBegin Simulation\n\n\n\n\n\n\nPatients in acute care may experience communication barriers related to motor impairment, sensory loss, language differences, pain, or medical status.\nStudents will complete four website-based AAC consultation cases involving:\n\nQuadriplegia and absent verbal communication\nVisual impairment and pain communication\nSpanish-language access\nHearing impairment\n\nStudents will identify communication barriers, evaluate access abilities, select appropriate AAC supports, coordinate care, and document recommendations.\nBegin Simulation 4\n\n\n\n\n\n\nComing Soon\n\n\n\n\n\n\nComing Soon"
   },
   {
     "objectID": "index.html#simulation-1",
@@ -368,7 +368,7 @@
     "href": "index.html#simulation-4",
     "title": "UO Acute Care Simulation Lab",
     "section": "",
-    "text": "Coming Soon"
+    "text": "Patients in acute care may experience communication barriers related to motor impairment, sensory loss, language differences, pain, or medical status.\nStudents will complete four website-based AAC consultation cases involving:\n\nQuadriplegia and absent verbal communication\nVisual impairment and pain communication\nSpanish-language access\nHearing impairment\n\nStudents will identify communication barriers, evaluate access abilities, select appropriate AAC supports, coordinate care, and document recommendations.\nBegin Simulation 4"
   },
   {
     "objectID": "index.html#simulation-5",
@@ -838,5 +838,488 @@
     "title": "Bedside Contact",
     "section": "Pause and Think",
     "text": "Pause and Think\n\nIs this patient appropriate for PO trials?\nCan a full oral mechanism examination be completed?\nWhat clinical information have you gathered so far?"
+  },
+  {
+    "objectID": "simulations/sim4/resources.html",
+    "href": "simulations/sim4/resources.html",
+    "title": "AAC Consultation Resources",
+    "section": "",
+    "text": "Return to Simulation 4"
+  },
+  {
+    "objectID": "simulations/sim4/resources.html#acute-care-aac-toolkit",
+    "href": "simulations/sim4/resources.html#acute-care-aac-toolkit",
+    "title": "AAC Consultation Resources",
+    "section": "Acute Care AAC Toolkit",
+    "text": "Acute Care AAC Toolkit\nAAC includes any strategy, tool, or system used to supplement or replace speech.\nIn acute care, AAC is frequently used to support communication for patients experiencing:\n\nIntubation or mechanical ventilation\nTracheostomy\nNeurological injury\nMotor impairment\nAphasia\nDysarthria\nHearing loss\nVisual impairment\nTemporary confusion\nFatigue\nLanguage-access barriers"
+  },
+  {
+    "objectID": "simulations/sim4/resources.html#low-tech-aac-options",
+    "href": "simulations/sim4/resources.html#low-tech-aac-options",
+    "title": "AAC Consultation Resources",
+    "section": "Low-Tech AAC Options",
+    "text": "Low-Tech AAC Options\nLow-tech AAC does not require electronic equipment.\nExamples include:\n\nYes/no board\nAlphabet board\nPicture communication board\nPain scale\nBody-part diagram\nWritten choice board\nCommunication notebook\nEye-gaze board\nPartner-assisted scanning\nWhiteboard\nGesture\nWritten key words"
+  },
+  {
+    "objectID": "simulations/sim4/resources.html#high-tech-aac-options",
+    "href": "simulations/sim4/resources.html#high-tech-aac-options",
+    "title": "AAC Consultation Resources",
+    "section": "High-Tech AAC Options",
+    "text": "High-Tech AAC Options\nHigh-tech AAC may include:\n\nTablet-based communication applications\nSpeech-generating devices\nEye-gaze speech-generating devices\nSwitch-access communication systems\nHead-controlled devices\nText-to-speech applications\nPersonal voice amplifiers\n\n\n\n\n\n\n\nNote\n\n\n\nThe most appropriate AAC method is the method the patient can use reliably, efficiently, and consistently. The most technologically advanced option is not always the best option."
+  },
+  {
+    "objectID": "simulations/sim4/resources.html#feature-matching-considerations",
+    "href": "simulations/sim4/resources.html#feature-matching-considerations",
+    "title": "AAC Consultation Resources",
+    "section": "Feature-Matching Considerations",
+    "text": "Feature-Matching Considerations\nFeature matching involves comparing the patient’s skills and needs with the characteristics of available AAC systems.\n\n\n\n\n\n\n\nPatient Factor\nAAC Considerations\n\n\n\n\nMotor ability\nDirect selection, eye gaze, switch access, partner-assisted scanning\n\n\nVision\nTarget size, contrast, spacing, lighting, field of presentation\n\n\nHearing\nWritten supports, amplification, visual cues\n\n\nLanguage\nVocabulary complexity, symbol type, literacy, preferred language\n\n\nCognition\nNumber of choices, navigation demands, memory demands\n\n\nFatigue\nPhysical effort, visual effort, need for backup methods\n\n\nMedical status\nPositioning, respiratory support, alertness, pain\n\n\nCommunication needs\nPain, comfort, choices, medical decisions, family contact\n\n\nEnvironment\nNoise, staff familiarity, board placement, infection control"
+  },
+  {
+    "objectID": "simulations/sim4/resources.html#establishing-yesno-responses",
+    "href": "simulations/sim4/resources.html#establishing-yesno-responses",
+    "title": "AAC Consultation Resources",
+    "section": "Establishing Yes/No Responses",
+    "text": "Establishing Yes/No Responses\nA reliable yes/no response is often the foundation of functional communication.\n\nPossible Response Modes\n\nVerbal response\nHead nod or shake\nEye movement\nBlink response\nThumb movement\nFinger movement\nPointing to written choices\nSwitch activation\n\n\n\nReliability Check\nAsk several questions with known answers.\nInclude:\n\nQuestions for which the answer is yes\nQuestions for which the answer is no\nQuestions related to personal information\nQuestions unrelated to immediate wants or needs\n\nAvoid relying on a single response."
+  },
+  {
+    "objectID": "simulations/sim4/resources.html#partner-assisted-scanning",
+    "href": "simulations/sim4/resources.html#partner-assisted-scanning",
+    "title": "AAC Consultation Resources",
+    "section": "Partner-Assisted Scanning",
+    "text": "Partner-Assisted Scanning\nPartner-assisted scanning may be useful when the patient cannot directly point to a communication target.\nThe communication partner:\n\nPresents categories or choices.\nPauses after each option.\nWatches for the patient’s established response.\nConfirms the selected message.\nRepeats the process as needed.\n\nExample:\n\nAre you uncomfortable because of pain, positioning, temperature, toileting, breathing, or something else?"
+  },
+  {
+    "objectID": "simulations/sim4/resources.html#common-icu-communication-categories",
+    "href": "simulations/sim4/resources.html#common-icu-communication-categories",
+    "title": "AAC Consultation Resources",
+    "section": "Common ICU Communication Categories",
+    "text": "Common ICU Communication Categories\nA bedside communication board may include:\n\nMedical and Safety\n\nPain\nDifficulty breathing\nSuction\nNurse\nMedication\nReposition\nBathroom\nCall light\n\n\n\nComfort\n\nHot\nCold\nBlanket\nPillow\nItching\nLights\nTelevision\nTired\n\n\n\nPersonal Needs\n\nFamily\nPhone\nGlasses\nHearing aids\nFood\nDrink\nPrivacy\nStop\n\n\n\nEmotional Needs\n\nScared\nFrustrated\nSad\nAnxious\nConfused\nNeed information"
+  },
+  {
+    "objectID": "simulations/sim4/resources.html#communication-partner-strategies",
+    "href": "simulations/sim4/resources.html#communication-partner-strategies",
+    "title": "AAC Consultation Resources",
+    "section": "Communication Partner Strategies",
+    "text": "Communication Partner Strategies\nStaff and family should:\n\nGain the patient’s attention.\nFace the patient.\nReduce distractions.\nUse short, direct messages.\nAsk one question at a time.\nAllow adequate response time.\nVerify yes/no responses.\nConfirm the patient’s intended message.\nKeep AAC materials within reach and view.\nDocument the established communication method.\nProvide a backup communication strategy."
+  },
+  {
+    "objectID": "simulations/sim4/resources.html#interpreter-considerations",
+    "href": "simulations/sim4/resources.html#interpreter-considerations",
+    "title": "AAC Consultation Resources",
+    "section": "Interpreter Considerations",
+    "text": "Interpreter Considerations\nA qualified medical interpreter should be used for:\n\nMedical assessment\nInformed consent\nDiagnosis and prognosis\nTreatment education\nMedical decision-making\nDischarge planning\nComplex symptom discussion\n\nAAC may support immediate communication across languages but should not replace appropriate interpreter services."
+  },
+  {
+    "objectID": "simulations/sim4/resources.html#documentation-reminders",
+    "href": "simulations/sim4/resources.html#documentation-reminders",
+    "title": "AAC Consultation Resources",
+    "section": "Documentation Reminders",
+    "text": "Documentation Reminders\nAn acute care AAC note may describe:\n\nSubjective\n\nReason for consultation\nPatient or staff concerns\nPatient-reported communication needs\n\n\n\nObjective\n\nAlertness\nCommand following\nYes/no reliability\nSpeech and language abilities\nReading and writing\nMotor access\nVision and hearing\nAAC methods trialed\nLevel of cueing or assistance\nPatient accuracy and efficiency\n\n\n\nAssessment\n\nPrimary communication barrier\nMost effective access method\nFunctional implications\nNeed for skilled SLP services\nPatient’s ability to communicate medical needs and decisions\n\n\n\nPlan\n\nRecommended AAC system\nStaff and family education\nBedside signage\nInterdisciplinary coordination\nFollow-up\nNeed for additional assessment"
+  },
+  {
+    "objectID": "simulations/sim4/resources.html#example-assessment-statement",
+    "href": "simulations/sim4/resources.html#example-assessment-statement",
+    "title": "AAC Consultation Resources",
+    "section": "Example Assessment Statement",
+    "text": "Example Assessment Statement\n\nPt presents with impaired functional communication secondary to absent verbal output and severe motor limitations. Pt demonstrated reliable responses to concrete yes/no questions using upward eye gaze for yes and downward eye gaze for no. Pt successfully selected basic medical and comfort needs from a low-tech eye-gaze communication board with minimal cueing. Recommend continued use of established eye-gaze system with partner-assisted scanning available as a backup method."
+  },
+  {
+    "objectID": "simulations/sim4/resources.html#example-plan-statement",
+    "href": "simulations/sim4/resources.html#example-plan-statement",
+    "title": "AAC Consultation Resources",
+    "section": "Example Plan Statement",
+    "text": "Example Plan Statement\n\nContinue skilled ST intervention to establish an efficient and reliable AAC system for communication of basic wants, medical needs, and care preferences. Provide ongoing staff and family education and coordinate with OT and nursing regarding positioning, access, and bedside implementation."
+  },
+  {
+    "objectID": "simulations/sim4/resources.html#end-of-simulation-reflection",
+    "href": "simulations/sim4/resources.html#end-of-simulation-reflection",
+    "title": "AAC Consultation Resources",
+    "section": "End-of-Simulation Reflection",
+    "text": "End-of-Simulation Reflection\nAfter completing all four cases, consider:\n\nHow did motor, sensory, cognitive, linguistic, and environmental factors affect AAC selection?\nWhen was low-tech AAC more appropriate than high-tech AAC?\nHow did the immediate medical context influence your recommendations?\nWhat information would you communicate to nursing at the end of each consultation?\nWhat aspects of AAC assessment and implementation require additional practice?"
+  },
+  {
+    "objectID": "simulations/sim4/case-a.html",
+    "href": "simulations/sim4/case-a.html",
+    "title": "Case A: Quadriplegia and Loss of Speech",
+    "section": "",
+    "text": "38-year-old male | Consult: AAC Evaluation"
+  },
+  {
+    "objectID": "simulations/sim4/case-a.html#patient-snapshot",
+    "href": "simulations/sim4/case-a.html#patient-snapshot",
+    "title": "Case A: Quadriplegia and Loss of Speech",
+    "section": "Patient Snapshot",
+    "text": "Patient Snapshot\n\n\n\nPatient Information\nDetails\n\n\n\n\nName\nBenjamin Carter\n\n\nAge\n38\n\n\nAdmitting Diagnosis\nC3–C4 spinal cord injury\n\n\nCurrent Setting\nIntensive Care Unit\n\n\nRespiratory Status\nMechanically ventilated\n\n\nCommunication Status\nUnable to produce functional speech\n\n\nMotor Status\nQuadriplegia with minimal voluntary head movement\n\n\nCognitive Status\nAlert and able to follow commands\n\n\nLanguage\nEnglish\n\n\nFamily\nPartner visits regularly"
+  },
+  {
+    "objectID": "simulations/sim4/case-a.html#chief-concern",
+    "href": "simulations/sim4/case-a.html#chief-concern",
+    "title": "Case A: Quadriplegia and Loss of Speech",
+    "section": "Chief Concern",
+    "text": "Chief Concern\n\nThe patient has frequently attempted to gain the attention of staff. Nursing reports that the patient appears frustrated and uncomfortable.\nThrough informal yes/no questioning, staff believe that the patient may be experiencing:\n\nA headache\nDiscomfort related to positioning\nA recent episode of urinary incontinence\nA desire to speak with their partner\n\nNursing has not yet established a consistent communication system.\n\n\nImmediate Clinical Concern: The patient currently lacks a reliable method for communicating pain, physical discomfort, hygiene needs, and requests for assistance."
+  },
+  {
+    "objectID": "simulations/sim4/case-a.html#step-1-identify-the-communication-barrier",
+    "href": "simulations/sim4/case-a.html#step-1-identify-the-communication-barrier",
+    "title": "Case A: Quadriplegia and Loss of Speech",
+    "section": "Step 1: Identify the Communication Barrier",
+    "text": "Step 1: Identify the Communication Barrier\nConsider the following:\n\nWhy is verbal communication unavailable?\nWhat communication abilities appear to be preserved?\nWhat information is still needed before selecting an AAC method?\nAre the patient’s responses reliable and consistent?\nDoes the patient have sufficient vision for an eye-gaze system?\nCan the patient move their eyes vertically and horizontally?\nIs head movement reliable enough to use as an access method?\nCan the patient tolerate sustained visual attention?"
+  },
+  {
+    "objectID": "simulations/sim4/case-a.html#step-2-establish-a-reliable-yesno-response",
+    "href": "simulations/sim4/case-a.html#step-2-establish-a-reliable-yesno-response",
+    "title": "Case A: Quadriplegia and Loss of Speech",
+    "section": "Step 2: Establish a Reliable Yes/No Response",
+    "text": "Step 2: Establish a Reliable Yes/No Response\nBefore introducing a larger communication system, determine whether the patient has a reliable yes/no response.\nPossible response modes include:\n\nLooking upward for yes and downward for no\nLooking toward a written YES or NO\nBlinking once for yes and twice for no\nMoving the head in a consistent direction\nUsing partner-assisted scanning\n\nTest the response using questions with known answers.\nExamples:\n\nIs your name Benjamin?\nAre you currently in the hospital?\nAre you 10 years old?\nIs your partner’s name Maria?\n\n\nA reliable yes/no response should be verified across multiple questions before it is used for medical decision-making."
+  },
+  {
+    "objectID": "simulations/sim4/case-a.html#step-3-evaluate-access-skills",
+    "href": "simulations/sim4/case-a.html#step-3-evaluate-access-skills",
+    "title": "Case A: Quadriplegia and Loss of Speech",
+    "section": "Step 3: Evaluate Access Skills",
+    "text": "Step 3: Evaluate Access Skills\nDetermine which access methods may be feasible.\n\nMotor Access\n\nCan the patient move either hand?\nCan the patient point?\nCan the patient move their head?\nCan the patient activate a switch?\nAre eye movements consistent?\nDoes fatigue affect performance?\n\n\n\nSensory Access\n\nCan the patient see large written words?\nCan the patient visually scan multiple options?\nDoes the patient require glasses?\nCan the patient hear verbal choices?\nIs background noise affecting performance?\n\n\n\nCognitive-Linguistic Skills\n\nCan the patient follow one-step directions?\nCan the patient read single words?\nCan the patient identify pictures?\nCan the patient make selections from a field of choices?\nCan the patient maintain attention long enough to use a communication system?"
+  },
+  {
+    "objectID": "simulations/sim4/case-a.html#step-4-select-aac-supports",
+    "href": "simulations/sim4/case-a.html#step-4-select-aac-supports",
+    "title": "Case A: Quadriplegia and Loss of Speech",
+    "section": "Step 4: Select AAC Supports",
+    "text": "Step 4: Select AAC Supports\nWhich supports would you trial?\n\nEye-gaze communication board\nLarge-print yes/no board\nPartner-assisted auditory scanning\nPain-rating board\nBody-part or positioning board\nAlphabet board\nSpeech-generating device with eye-gaze access\nSingle-message switch\nCall system adapted for head or eye movement\n\nConsider:\n\nWhich option offers the fastest access to urgent needs?\nWhich option requires the least physical effort?\nWhich option can nursing staff use consistently across shifts?\nWhat backup method should be available if the primary system fails?"
+  },
+  {
+    "objectID": "simulations/sim4/case-a.html#step-5-address-immediate-needs",
+    "href": "simulations/sim4/case-a.html#step-5-address-immediate-needs",
+    "title": "Case A: Quadriplegia and Loss of Speech",
+    "section": "Step 5: Address Immediate Needs",
+    "text": "Step 5: Address Immediate Needs\nUsing the patient’s established response method, determine the priority of the following concerns:\n\nHeadache\nRepositioning\nIncontinence and hygiene\nContacting the patient’s partner\n\nConsider how you would communicate each need to the appropriate team member.\n\n\n\n\n\n\n\nPatient Need\nAppropriate Follow-Up\n\n\n\n\nHeadache\nNotify nursing and support pain assessment\n\n\nPositioning discomfort\nNotify nursing and/or physical or occupational therapy\n\n\nHygiene needs\nNotify nursing staff\n\n\nContact partner\nConfirm patient consent and assist with communication"
+  },
+  {
+    "objectID": "simulations/sim4/case-a.html#step-6-interdisciplinary-coordination",
+    "href": "simulations/sim4/case-a.html#step-6-interdisciplinary-coordination",
+    "title": "Case A: Quadriplegia and Loss of Speech",
+    "section": "Step 6: Interdisciplinary Coordination",
+    "text": "Step 6: Interdisciplinary Coordination\nWhich team members may need to participate?\n\nNursing\nRespiratory therapy\nOccupational therapy\nPhysical therapy\nPhysician or advanced practice provider\nFamily or communication partner\nAssistive technology specialist\n\nConsider what education should be placed at the bedside.\nExamples:\n\nThe patient’s established yes/no response\nPositioning instructions for the communication board\nInstructions for partner-assisted scanning\nA list of frequently requested messages\nThe patient’s preferred communication method\nInstructions for verifying responses"
+  },
+  {
+    "objectID": "simulations/sim4/case-a.html#documentation-task",
+    "href": "simulations/sim4/case-a.html#documentation-task",
+    "title": "Case A: Quadriplegia and Loss of Speech",
+    "section": "Documentation Task",
+    "text": "Documentation Task\nComplete a SOAP note that includes:\n\nThe reason for consultation\nCommunication and access skills assessed\nReliability of yes/no responses\nAAC strategies trialed\nLevel of assistance required\nImmediate needs identified\nPatient and staff education\nInterdisciplinary recommendations\nPlan for follow-up"
+  },
+  {
+    "objectID": "simulations/sim4/case-a.html#reflection-questions",
+    "href": "simulations/sim4/case-a.html#reflection-questions",
+    "title": "Case A: Quadriplegia and Loss of Speech",
+    "section": "Reflection Questions",
+    "text": "Reflection Questions\n\nHow did you determine the order in which the patient’s immediate needs should be addressed?\nWhich AAC method was most appropriate for this patient, and what patient-specific factors supported your choice?\nWhat backup communication method would you recommend if fatigue or visual changes reduced the patient’s eye-gaze accuracy?\n\n\n\nReveal Example Clinical Reasoning\n\nThe patient is alert, follows commands, and has severe motor limitations with no functional speech. Eye movement may represent the patient’s most reliable access method.\nAn initial low-tech system could include a large-print yes/no board and an eye-gaze communication board containing urgent messages such as pain, positioning, suction, bathroom, family, hot, cold, and call nurse.\nPartner-assisted scanning could serve as a backup method. The communication partner would verbally present categories and choices while the patient uses the established yes/no response.\nA high-tech eye-gaze speech-generating device could be considered if the communication impairment is expected to continue and the patient demonstrates adequate visual attention and language skills.\nThe most urgent concerns are pain, positioning, and hygiene. Nursing should be notified immediately, while the patient’s request to contact their partner should be addressed after consent is confirmed."
+  },
+  {
+    "objectID": "simulations/sim4/case-a.html#continue",
+    "href": "simulations/sim4/case-a.html#continue",
+    "title": "Case A: Quadriplegia and Loss of Speech",
+    "section": "Continue",
+    "text": "Continue\nGo to Case B"
+  },
+  {
+    "objectID": "simulations/sim4/case-b.html",
+    "href": "simulations/sim4/case-b.html",
+    "title": "Case B: Visual Impairment and Pain",
+    "section": "",
+    "text": "71-year-old female | Consult: AAC Evaluation"
+  },
+  {
+    "objectID": "simulations/sim4/case-b.html#patient-snapshot",
+    "href": "simulations/sim4/case-b.html#patient-snapshot",
+    "title": "Case B: Visual Impairment and Pain",
+    "section": "Patient Snapshot",
+    "text": "Patient Snapshot\n\n\n\n\n\n\n\nPatient Information\nDetails\n\n\n\n\nName\nPatricia Lewis\n\n\nAge\n71\n\n\nAdmitting Diagnosis\nLeft hip fracture following a fall\n\n\nCurrent Setting\nAcute Care Orthopedic Unit\n\n\nCommunication Status\nVerbal but inconsistently communicates needs\n\n\nVision\nCorrective lenses left at home\n\n\nHearing\nFunctional for conversational speech\n\n\nMotor Status\nAble to move upper extremities; movement limited by pain\n\n\nCognitive Status\nMild confusion noted following pain medication\n\n\nLanguage\nEnglish\n\n\nFamily\nDaughter listed as primary contact"
+  },
+  {
+    "objectID": "simulations/sim4/case-b.html#chief-concern",
+    "href": "simulations/sim4/case-b.html#chief-concern",
+    "title": "Case B: Visual Impairment and Pain",
+    "section": "Chief Concern",
+    "text": "Chief Concern\n\nThe patient reports sharp left hip pain rated as 6/10. She repeatedly asks when she may receive her next pain medication.\nShe also reports:\n\nDifficulty getting comfortable in bed\nNeeding an additional pillow\nDifficulty reading the room whiteboard\nWanting her daughter to bring her glasses\nUncertainty regarding the date and time\n\nStaff have attempted to provide written information, but the patient reports that the print is too small to read.\n\n\nImmediate Clinical Concern: A visual communication tool will not be effective unless its size, contrast, spacing, and presentation are adapted to the patient’s visual needs."
+  },
+  {
+    "objectID": "simulations/sim4/case-b.html#step-1-identify-the-communication-barrier",
+    "href": "simulations/sim4/case-b.html#step-1-identify-the-communication-barrier",
+    "title": "Case B: Visual Impairment and Pain",
+    "section": "Step 1: Identify the Communication Barrier",
+    "text": "Step 1: Identify the Communication Barrier\nConsider:\n\nIs the primary barrier speech, language, cognition, vision, pain, or a combination?\nHow may pain and medication affect attention and memory?\nCan the patient reliably understand spoken information?\nCan the patient read large print?\nCan the patient point to large visual targets?\nWould a verbal or auditory system be more effective than a picture board?"
+  },
+  {
+    "objectID": "simulations/sim4/case-b.html#step-2-brief-communication-and-cognitive-screening",
+    "href": "simulations/sim4/case-b.html#step-2-brief-communication-and-cognitive-screening",
+    "title": "Case B: Visual Impairment and Pain",
+    "section": "Step 2: Brief Communication and Cognitive Screening",
+    "text": "Step 2: Brief Communication and Cognitive Screening\nDetermine whether the patient can:\n\nState her name\nIdentify that she is in the hospital\nState the reason for hospitalization\nFollow one-step directions\nAnswer simple yes/no questions\nRepeat back information regarding pain medication\nRecall information following a brief delay\nIdentify large-print words or symbols\nPoint to a target using either hand\n\nConsider whether inaccurate responses reflect:\n\nReduced hearing\nReduced vision\nPain\nMedication effects\nDelirium\nLanguage impairment\nBaseline cognitive impairment"
+  },
+  {
+    "objectID": "simulations/sim4/case-b.html#step-3-evaluate-visual-access",
+    "href": "simulations/sim4/case-b.html#step-3-evaluate-visual-access",
+    "title": "Case B: Visual Impairment and Pain",
+    "section": "Step 3: Evaluate Visual Access",
+    "text": "Step 3: Evaluate Visual Access\nTrial adjustments such as:\n\nLarge-print written choices\nHigh-contrast text\nReduced number of choices\nIncreased spacing between targets\nVerbal presentation of choices\nA color-coded pain scale\nPresentation within the patient’s intact visual field\nImproved lighting\nReduced visual clutter\n\n\nPotential Trial\nPresent a pain board with:\n\nLarge numbers\nA simple 0–10 scale\nWritten descriptors\nHigh visual contrast\nAdequate spacing between selections\n\nThen confirm the patient’s selection verbally."
+  },
+  {
+    "objectID": "simulations/sim4/case-b.html#step-4-select-aac-and-communication-supports",
+    "href": "simulations/sim4/case-b.html#step-4-select-aac-and-communication-supports",
+    "title": "Case B: Visual Impairment and Pain",
+    "section": "Step 4: Select AAC and Communication Supports",
+    "text": "Step 4: Select AAC and Communication Supports\nWhich supports would you trial?\n\nLarge-print pain scale\nHigh-contrast picture board\nLarge-print written choice board\nAuditory choice presentation\nSimple yes/no questions\nWhiteboard with enlarged information\nOrientation board\nBedside schedule\nTablet with enlarged icons\nVerbal rehearsal or teach-back\nCommunication partner support\n\nConsider:\n\nIs the patient’s speech functional?\nDoes she primarily need expressive AAC or environmental communication support?\nHow will you ensure that she understands the medication schedule?\nWhat should staff do if her confusion increases?"
+  },
+  {
+    "objectID": "simulations/sim4/case-b.html#step-5-address-immediate-needs",
+    "href": "simulations/sim4/case-b.html#step-5-address-immediate-needs",
+    "title": "Case B: Visual Impairment and Pain",
+    "section": "Step 5: Address Immediate Needs",
+    "text": "Step 5: Address Immediate Needs\nThe patient communicates the following:\n\nPain is currently 6/10.\nShe would like medication.\nShe wants another pillow.\nShe would like her daughter to bring her glasses.\nShe does not remember when medication was last administered.\n\nDetermine the appropriate response.\n\n\n\n\n\n\n\nPatient Need\nAppropriate Follow-Up\n\n\n\n\nPain medication\nNotify nursing; do not independently promise medication\n\n\nMedication schedule\nProvide simplified information in coordination with nursing\n\n\nPillow and positioning\nNotify nursing staff\n\n\nGlasses\nObtain consent and contact family\n\n\nOrientation support\nUpdate large-print bedside information\n\n\n\n\nThe SLP may support the patient’s ability to understand and communicate about pain. Medication decisions remain within the responsibility of nursing and the medical team."
+  },
+  {
+    "objectID": "simulations/sim4/case-b.html#step-6-patient-and-staff-education",
+    "href": "simulations/sim4/case-b.html#step-6-patient-and-staff-education",
+    "title": "Case B: Visual Impairment and Pain",
+    "section": "Step 6: Patient and Staff Education",
+    "text": "Step 6: Patient and Staff Education\nEducation may include:\n\nUse large print and high contrast.\nPresent one idea or question at a time.\nReduce the number of visual choices.\nConfirm the patient’s message verbally.\nUse teach-back for important medical information.\nKeep the communication board within reach.\nReassess communication when pain or alertness changes.\nEnsure the patient’s glasses are available as soon as possible."
+  },
+  {
+    "objectID": "simulations/sim4/case-b.html#documentation-task",
+    "href": "simulations/sim4/case-b.html#documentation-task",
+    "title": "Case B: Visual Impairment and Pain",
+    "section": "Documentation Task",
+    "text": "Documentation Task\nComplete a SOAP note that includes:\n\nCommunication barriers identified\nCognitive, motor, and sensory abilities observed\nVisual accommodations trialed\nPain communication supports used\nPatient response to AAC strategies\nEducation provided\nFamily and nursing coordination\nRecommendations and follow-up plan"
+  },
+  {
+    "objectID": "simulations/sim4/case-b.html#reflection-questions",
+    "href": "simulations/sim4/case-b.html#reflection-questions",
+    "title": "Case B: Visual Impairment and Pain",
+    "section": "Reflection Questions",
+    "text": "Reflection Questions\n\nHow did you determine whether the patient’s difficulty was primarily related to vision, cognition, pain, or language?\nWhich communication tools were most effective given the patient’s visual limitations?\nHow would you ensure that the patient accurately understood when she could receive her next medication dose?\n\n\n\nReveal Example Clinical Reasoning\n\nThe patient retains functional verbal communication but has difficulty accessing standard written information because her corrective lenses are unavailable. Pain, medication, and mild confusion may also affect her ability to retain information.\nA large-print, high-contrast pain scale and enlarged written choices may support communication. Auditory presentation and teach-back should be used for important information, including the pain medication schedule.\nThe SLP should not independently interpret or promise medication timing. Nursing should provide the confirmed schedule, and the patient should be asked to repeat the information in her own words.\nWith the patient’s permission, the daughter may be contacted and asked to bring the patient’s glasses. Staff should continue to monitor whether confusion changes after pain management or over the course of hospitalization."
+  },
+  {
+    "objectID": "simulations/sim4/case-b.html#continue",
+    "href": "simulations/sim4/case-b.html#continue",
+    "title": "Case B: Visual Impairment and Pain",
+    "section": "Continue",
+    "text": "Continue\nGo to Case C"
+  },
+  {
+    "objectID": "simulations/sim4/case-d.html",
+    "href": "simulations/sim4/case-d.html",
+    "title": "Case D: Hearing Impairment",
+    "section": "",
+    "text": "79-year-old male | Consult: AAC Evaluation"
+  },
+  {
+    "objectID": "simulations/sim4/case-d.html#patient-snapshot",
+    "href": "simulations/sim4/case-d.html#patient-snapshot",
+    "title": "Case D: Hearing Impairment",
+    "section": "Patient Snapshot",
+    "text": "Patient Snapshot\n\n\n\nPatient Information\nDetails\n\n\n\n\nName\nRobert Greene\n\n\nAge\n79\n\n\nAdmitting Diagnosis\nRight shoulder fracture following a fall\n\n\nCurrent Setting\nAcute Care Medical-Surgical Unit\n\n\nCommunication Status\nVerbal\n\n\nHearing\nBilateral hearing impairment; hearing aids at home\n\n\nVision\nFunctional with glasses\n\n\nMotor Status\nRight arm immobilized; left hand functional\n\n\nCognitive Status\nAlert; staff report inconsistent responses\n\n\nLanguage\nEnglish\n\n\nFamily\nSpouse available by telephone"
+  },
+  {
+    "objectID": "simulations/sim4/case-d.html#chief-concern",
+    "href": "simulations/sim4/case-d.html#chief-concern",
+    "title": "Case D: Hearing Impairment",
+    "section": "Chief Concern",
+    "text": "Chief Concern\n\nThe patient has difficulty hearing staff, particularly when staff speak from outside his visual field or while wearing a mask.\nThe patient has attempted to communicate the following:\n\nRight shoulder pain rated as 3/10\nNeed for restroom assistance\nDifficulty using the television controls\nDesire to activate closed captioning\nRequest for his spouse to bring his hearing aids\n\nStaff are uncertain whether some incorrect responses reflect confusion or reduced auditory access.\n\n\nImmediate Clinical Concern: A patient may appear confused, uncooperative, or cognitively impaired when spoken information is not accessible."
+  },
+  {
+    "objectID": "simulations/sim4/case-d.html#step-1-identify-the-communication-barrier",
+    "href": "simulations/sim4/case-d.html#step-1-identify-the-communication-barrier",
+    "title": "Case D: Hearing Impairment",
+    "section": "Step 1: Identify the Communication Barrier",
+    "text": "Step 1: Identify the Communication Barrier\nConsider:\n\nCan the patient understand written language?\nCan the patient read lips or facial cues?\nDoes masking affect communication?\nDoes the patient hear better in one ear?\nIs the room noisy?\nCan the patient use a personal amplifier?\nCan the patient write with the unaffected hand?\nAre inaccurate responses reduced when information is written?"
+  },
+  {
+    "objectID": "simulations/sim4/case-d.html#step-2-modify-the-environment",
+    "href": "simulations/sim4/case-d.html#step-2-modify-the-environment",
+    "title": "Case D: Hearing Impairment",
+    "section": "Step 2: Modify the Environment",
+    "text": "Step 2: Modify the Environment\nBefore assuming cognitive impairment, trial:\n\nGain the patient’s attention before speaking.\nFace the patient directly.\nReduce background noise.\nEnsure adequate lighting.\nSpeak clearly at a normal rate.\nAvoid shouting.\nPresent one message at a time.\nUse written key words.\nUse a whiteboard.\nProvide a personal amplifier when available.\nConfirm understanding through teach-back."
+  },
+  {
+    "objectID": "simulations/sim4/case-d.html#step-3-evaluate-communication-modalities",
+    "href": "simulations/sim4/case-d.html#step-3-evaluate-communication-modalities",
+    "title": "Case D: Hearing Impairment",
+    "section": "Step 3: Evaluate Communication Modalities",
+    "text": "Step 3: Evaluate Communication Modalities\nDetermine whether the patient can:\n\nUnderstand large-print written questions\nRead a whiteboard\nPoint to yes/no choices\nWrite short responses with the left hand\nFollow directions when visual cues are provided\nUse gestures\nUnderstand speech with amplification\nUse bedside call and television controls\n\nConsider comparing performance across conditions:\n\nSpoken instruction only\nSpoken instruction while facing the patient\nSpoken instruction plus written key words\nWritten instruction only\nSpoken instruction with amplification"
+  },
+  {
+    "objectID": "simulations/sim4/case-d.html#step-4-select-communication-supports",
+    "href": "simulations/sim4/case-d.html#step-4-select-communication-supports",
+    "title": "Case D: Hearing Impairment",
+    "section": "Step 4: Select Communication Supports",
+    "text": "Step 4: Select Communication Supports\nWhich supports would you trial?\n\nWhiteboard\nLarge-print written choices\nYes/no board\nPersonal voice amplifier\nWritten pain scale\nGesture\nClosed captioning\nBedside communication card\nCommunication partner strategies\nTablet-based text\nFamily-provided hearing aids\n\nConsider:\n\nWhich method is fastest for immediate needs?\nWhich method can staff use consistently?\nWhat should be documented at the bedside?\nHow will you verify that the hearing aids are functioning when they arrive?"
+  },
+  {
+    "objectID": "simulations/sim4/case-d.html#step-5-address-immediate-needs",
+    "href": "simulations/sim4/case-d.html#step-5-address-immediate-needs",
+    "title": "Case D: Hearing Impairment",
+    "section": "Step 5: Address Immediate Needs",
+    "text": "Step 5: Address Immediate Needs\nThe patient communicates:\n\nShoulder pain is 3/10.\nHe needs restroom assistance.\nHe wants closed captions activated.\nHe would like his spouse to bring his hearing aids.\n\nDetermine the appropriate response.\n\n\n\nPatient Need\nAppropriate Follow-Up\n\n\n\n\nShoulder pain\nNotify nursing and support pain communication\n\n\nRestroom assistance\nNotify nursing immediately\n\n\nTelevision captions\nAssist directly or coordinate with staff\n\n\nHearing aids\nConfirm consent and contact spouse\n\n\nCommunication access\nEstablish bedside communication strategies"
+  },
+  {
+    "objectID": "simulations/sim4/case-d.html#step-6-patient-and-staff-education",
+    "href": "simulations/sim4/case-d.html#step-6-patient-and-staff-education",
+    "title": "Case D: Hearing Impairment",
+    "section": "Step 6: Patient and Staff Education",
+    "text": "Step 6: Patient and Staff Education\nEducation may include:\n\nApproach from the front.\nGain attention before speaking.\nReduce environmental noise.\nFace the patient during communication.\nUse written key words and short sentences.\nConfirm understanding.\nKeep the whiteboard within reach.\nUse closed captions.\nAvoid interpreting reduced auditory access as cognitive impairment.\nEnsure hearing aids are labeled and stored safely when not in use."
+  },
+  {
+    "objectID": "simulations/sim4/case-d.html#documentation-task",
+    "href": "simulations/sim4/case-d.html#documentation-task",
+    "title": "Case D: Hearing Impairment",
+    "section": "Documentation Task",
+    "text": "Documentation Task\nComplete a SOAP note that includes:\n\nHearing and communication barriers identified\nEnvironmental modifications trialed\nCommunication modalities assessed\nPatient performance with written versus spoken information\nAAC or amplification supports provided\nImmediate needs identified\nStaff and family education\nRecommendations and follow-up plan"
+  },
+  {
+    "objectID": "simulations/sim4/case-d.html#reflection-questions",
+    "href": "simulations/sim4/case-d.html#reflection-questions",
+    "title": "Case D: Hearing Impairment",
+    "section": "Reflection Questions",
+    "text": "Reflection Questions\n\nWhich communication methods were most effective for this patient?\nHow did you distinguish reduced hearing access from possible cognitive impairment?\nWhat strategies should nursing staff use consistently across shifts?\n\n\n\nReveal Example Clinical Reasoning\n\nThe patient’s verbal expression is functional, but access to spoken information is limited because his hearing aids are unavailable. Written communication, direct visual access to the speaker, environmental modifications, and amplification should be trialed before drawing conclusions about cognition.\nA whiteboard or large-print written choice board may support immediate communication. A personal amplifier may improve access until the patient’s hearing aids arrive.\nStaff should approach from the front, reduce background noise, face the patient, use written key words, and confirm comprehension. Closed captioning should be activated to improve environmental access.\nWith the patient’s consent, his spouse may be contacted and asked to bring the hearing aids. Nursing should address pain and restroom needs."
+  },
+  {
+    "objectID": "simulations/sim4/case-d.html#continue",
+    "href": "simulations/sim4/case-d.html#continue",
+    "title": "Case D: Hearing Impairment",
+    "section": "Continue",
+    "text": "Continue\nReview AAC Resources"
+  },
+  {
+    "objectID": "simulations/sim4/case-c.html",
+    "href": "simulations/sim4/case-c.html",
+    "title": "Case C: Spanish-Speaking Patient",
+    "section": "",
+    "text": "63-year-old female | Consult: AAC Evaluation"
+  },
+  {
+    "objectID": "simulations/sim4/case-c.html#patient-snapshot",
+    "href": "simulations/sim4/case-c.html#patient-snapshot",
+    "title": "Case C: Spanish-Speaking Patient",
+    "section": "Patient Snapshot",
+    "text": "Patient Snapshot\n\n\n\n\n\n\n\nPatient Information\nDetails\n\n\n\n\nName\nRosa Martínez\n\n\nAge\n63\n\n\nAdmitting Diagnosis\nCommunity-acquired pneumonia\n\n\nCurrent Setting\nAcute Care Medical Unit\n\n\nCommunication Status\nVerbal in Spanish\n\n\nEnglish Proficiency\nMinimal\n\n\nMotor Status\nAble to point and gesture\n\n\nVision\nFunctional\n\n\nHearing\nNo known impairment\n\n\nCognitive Status\nAlert; formal cognitive status not yet established\n\n\nPreferred Language\nSpanish\n\n\nFamily\nAdult son listed as emergency contact"
+  },
+  {
+    "objectID": "simulations/sim4/case-c.html#chief-concern",
+    "href": "simulations/sim4/case-c.html#chief-concern",
+    "title": "Case C: Spanish-Speaking Patient",
+    "section": "Chief Concern",
+    "text": "Chief Concern\n\nThe patient has attempted to communicate several needs to staff. Staff believe she may be indicating:\n\nHunger\nFeeling cold\nItching\nA desire to contact her family\n\nThe patient appears frustrated when staff do not understand her. A family member has occasionally interpreted by telephone, but a qualified medical interpreter has not consistently been available during routine care.\n\n\nLanguage Difference Is Not a Communication Disorder: Limited English proficiency should not be interpreted as aphasia, cognitive impairment, confusion, or reduced decision-making capacity."
+  },
+  {
+    "objectID": "simulations/sim4/case-c.html#step-1-identify-the-communication-barrier",
+    "href": "simulations/sim4/case-c.html#step-1-identify-the-communication-barrier",
+    "title": "Case C: Spanish-Speaking Patient",
+    "section": "Step 1: Identify the Communication Barrier",
+    "text": "Step 1: Identify the Communication Barrier\nConsider:\n\nDoes the patient have a communication impairment, a language-access barrier, or both?\nIs a qualified medical interpreter required?\nWhat information can be supported temporarily through pictures or gestures?\nWhich conversations should not rely solely on a picture board?\nIs the patient able to read in Spanish?\nAre cultural and dialect differences relevant?\nHas the patient’s preferred language been documented?"
+  },
+  {
+    "objectID": "simulations/sim4/case-c.html#step-2-establish-immediate-functional-communication",
+    "href": "simulations/sim4/case-c.html#step-2-establish-immediate-functional-communication",
+    "title": "Case C: Spanish-Speaking Patient",
+    "section": "Step 2: Establish Immediate Functional Communication",
+    "text": "Step 2: Establish Immediate Functional Communication\nUse appropriate temporary supports to determine whether the patient is:\n\nHungry\nThirsty\nCold\nHot\nItching\nIn pain\nShort of breath\nIn need of toileting assistance\nRequesting family\nRequesting nursing assistance\n\nPossible supports include:\n\nPicture symbols\nSpanish-language written choices\nGestures\nDemonstration\nYes/no questions interpreted by a qualified interpreter\nA bilingual basic-needs board\nPointing to body parts\nA pain scale adapted to the patient’s language and literacy level"
+  },
+  {
+    "objectID": "simulations/sim4/case-c.html#step-3-consider-interpreter-use",
+    "href": "simulations/sim4/case-c.html#step-3-consider-interpreter-use",
+    "title": "Case C: Spanish-Speaking Patient",
+    "section": "Step 3: Consider Interpreter Use",
+    "text": "Step 3: Consider Interpreter Use\nA qualified medical interpreter should be used for:\n\nMedical history\nInformed consent\nDiscussion of diagnosis or prognosis\nComplex symptom descriptions\nTreatment education\nDecision-making\nDischarge planning\nFormal assessment\nConversations involving risk or safety\n\nA family member should not routinely replace a qualified interpreter for medical communication.\n\nAAC may supplement language access, but it does not replace a qualified medical interpreter."
+  },
+  {
+    "objectID": "simulations/sim4/case-c.html#step-4-evaluate-aac-access",
+    "href": "simulations/sim4/case-c.html#step-4-evaluate-aac-access",
+    "title": "Case C: Spanish-Speaking Patient",
+    "section": "Step 4: Evaluate AAC Access",
+    "text": "Step 4: Evaluate AAC Access\nDetermine whether the patient can:\n\nPoint accurately to pictures\nMatch a picture to a spoken Spanish word\nRead basic Spanish words\nAnswer yes/no questions in Spanish\nUse gestures consistently\nNavigate a small field of choices\nUse a telephone or tablet\nCommunicate preferences with an interpreter present\n\nConsider whether the board should include:\n\nPictures only\nSpanish words\nSpanish and English words\nA pain scale\nBody-part images\nFamily and telephone icons\nFood and drink choices\nTemperature and comfort needs"
+  },
+  {
+    "objectID": "simulations/sim4/case-c.html#step-5-address-immediate-needs",
+    "href": "simulations/sim4/case-c.html#step-5-address-immediate-needs",
+    "title": "Case C: Spanish-Speaking Patient",
+    "section": "Step 5: Address Immediate Needs",
+    "text": "Step 5: Address Immediate Needs\nThe patient appears to communicate that:\n\nShe is cold.\nShe is hungry.\nHer arm is itching.\nShe wants to call her son.\n\nDetermine the appropriate follow-up.\n\n\n\nPatient Need\nAppropriate Follow-Up\n\n\n\n\nCold\nNotify nursing and assist with comfort measures\n\n\nHunger\nConfirm diet status with nursing before offering food\n\n\nItching\nNotify nursing for assessment\n\n\nCall family\nConfirm consent and assist with contact\n\n\nMedical questions\nObtain a qualified interpreter\n\n\n\n\nImmediate Clinical Concern: Do not provide food or drink until the patient’s diet status and swallowing recommendations have been confirmed."
+  },
+  {
+    "objectID": "simulations/sim4/case-c.html#step-6-interdisciplinary-coordination",
+    "href": "simulations/sim4/case-c.html#step-6-interdisciplinary-coordination",
+    "title": "Case C: Spanish-Speaking Patient",
+    "section": "Step 6: Interdisciplinary Coordination",
+    "text": "Step 6: Interdisciplinary Coordination\nPotential team members include:\n\nQualified medical interpreter\nNursing\nPhysician or advanced practice provider\nDietary services\nRespiratory therapy\nFamily\nCase management\nSpeech-language pathology\n\nStaff education may include:\n\nDocument the patient’s preferred language.\nUse a qualified interpreter for medical discussions.\nKeep the bilingual basic-needs board within reach.\nSpeak directly to the patient, not to the interpreter.\nUse short, clear messages.\nAllow additional response time.\nConfirm meaning rather than assuming.\nAvoid treating language difference as cognitive impairment."
+  },
+  {
+    "objectID": "simulations/sim4/case-c.html#documentation-task",
+    "href": "simulations/sim4/case-c.html#documentation-task",
+    "title": "Case C: Spanish-Speaking Patient",
+    "section": "Documentation Task",
+    "text": "Documentation Task\nComplete a SOAP note that includes:\n\nThe patient’s preferred language\nCommunication barriers observed\nInterpreter use\nFunctional communication abilities\nAAC supports trialed\nPatient response\nImmediate needs communicated\nEducation provided to staff\nRecommendations for language access and follow-up"
+  },
+  {
+    "objectID": "simulations/sim4/case-c.html#reflection-questions",
+    "href": "simulations/sim4/case-c.html#reflection-questions",
+    "title": "Case C: Spanish-Speaking Patient",
+    "section": "Reflection Questions",
+    "text": "Reflection Questions\n\nHow did you distinguish a language-access barrier from a possible communication disorder?\nWhich AAC resources were most effective for supporting immediate basic needs?\nWhich aspects of this patient’s care require a qualified medical interpreter rather than a communication board or family member?\n\n\n\nReveal Example Clinical Reasoning\n\nThe patient is verbally communicative in Spanish. The immediate barrier is limited shared language between the patient and staff rather than confirmed speech, language, or cognitive impairment.\nA bilingual picture-and-word board may help the patient communicate urgent basic needs such as pain, temperature, hunger, toileting, itching, and family contact. However, this board should supplement rather than replace a qualified medical interpreter.\nA qualified interpreter is necessary for formal assessment, medical education, informed consent, complex symptom discussion, and care planning.\nThe patient’s request for food should be communicated to nursing, and diet status should be confirmed before food or drink is provided. Nursing should also address itching and comfort needs. With consent, staff may help the patient contact her son."
+  },
+  {
+    "objectID": "simulations/sim4/case-c.html#continue",
+    "href": "simulations/sim4/case-c.html#continue",
+    "title": "Case C: Spanish-Speaking Patient",
+    "section": "Continue",
+    "text": "Continue\nGo to Case D"
+  },
+  {
+    "objectID": "simulations/sim4/index.html",
+    "href": "simulations/sim4/index.html",
+    "title": "Simulation 4: AAC Consultation",
+    "section": "",
+    "text": "Acute Care Simulation | Consultation-Based Activity"
+  },
+  {
+    "objectID": "simulations/sim4/index.html#simulation-overview",
+    "href": "simulations/sim4/index.html#simulation-overview",
+    "title": "Simulation 4: AAC Consultation",
+    "section": "Simulation Overview",
+    "text": "Simulation Overview\nPatients in acute care may experience temporary or permanent barriers to communication related to neurological injury, intubation, motor impairment, sensory loss, language differences, pain, fatigue, or changes in cognition.\nIn this simulation, you will assume the role of the consulting speech-language pathologist. You will review several patient scenarios, identify barriers to functional communication, and recommend appropriate augmentative and alternative communication (AAC) supports.\nUnlike previous simulations, this activity is primarily completed through the course website rather than through a mannequin-based encounter.\n\nClinical Focus\nThe goal of an acute care AAC consultation is not necessarily to identify the most advanced communication device. The immediate goal is to establish a reliable and efficient way for the patient to communicate medical needs, preferences, questions, and decisions."
+  },
+  {
+    "objectID": "simulations/sim4/index.html#learning-objectives",
+    "href": "simulations/sim4/index.html#learning-objectives",
+    "title": "Simulation 4: AAC Consultation",
+    "section": "Learning Objectives",
+    "text": "Learning Objectives\nBy the end of this simulation, students will be able to:\n\nIdentify barriers affecting functional communication in the acute care setting.\nEvaluate patient access abilities, including motor, visual, auditory, cognitive, and linguistic factors.\nSelect appropriate low-tech and high-tech AAC supports.\nDevelop strategies for communicating urgent medical and personal needs.\nProvide patient, family, and staff education regarding AAC use.\nCoordinate recommendations with the interdisciplinary team.\nDocument findings and recommendations using an acute care SOAP note.\nReflect on clinical reasoning and patient-centered decision-making."
+  },
+  {
+    "objectID": "simulations/sim4/index.html#your-role",
+    "href": "simulations/sim4/index.html#your-role",
+    "title": "Simulation 4: AAC Consultation",
+    "section": "Your Role",
+    "text": "Your Role\nYou are the speech-language pathologist responding to a communication consultation.\nFor each patient case, you will:\n\nReview the reason for consultation.\nIdentify the primary communication barrier.\nEvaluate available communication and access skills.\nSelect AAC strategies to trial.\nAddress the patient’s immediate communication needs.\nIdentify appropriate interdisciplinary follow-up.\nDocument your assessment and recommendations."
+  },
+  {
+    "objectID": "simulations/sim4/index.html#aac-assessment-framework",
+    "href": "simulations/sim4/index.html#aac-assessment-framework",
+    "title": "Simulation 4: AAC Consultation",
+    "section": "AAC Assessment Framework",
+    "text": "AAC Assessment Framework\nWhen selecting an AAC approach, consider the following areas:\n\n\n\n\n\n\n\nArea\nQuestions to Consider\n\n\n\n\nCommunication\nCan the patient speak, vocalize, gesture, write, read, or answer yes/no questions?\n\n\nLanguage\nDoes the patient understand spoken and written language? What is the patient’s preferred language?\n\n\nCognition\nCan the patient attend, remember directions, make selections, and understand cause and effect?\n\n\nMotor Access\nCan the patient point, reach, lift a hand, move their head, or use eye gaze?\n\n\nVision\nCan the patient see written words, pictures, colors, and communication targets?\n\n\nHearing\nCan the patient hear conversational speech? Are hearing aids or amplification available?\n\n\nEnvironment\nAre noise, lighting, positioning, fatigue, or medical equipment affecting communication?\n\n\nUrgency\nWhat medical, safety, comfort, or personal needs must be communicated immediately?"
+  },
+  {
+    "objectID": "simulations/sim4/index.html#available-patient-consultations",
+    "href": "simulations/sim4/index.html#available-patient-consultations",
+    "title": "Simulation 4: AAC Consultation",
+    "section": "Available Patient Consultations",
+    "text": "Available Patient Consultations\n\nStudent Task: Complete each patient case and record your findings in the SOAP note provided by your instructor.\n\n\nCase A: Quadriplegia and Loss of Speech\nA patient with quadriplegia is unable to verbally communicate basic needs and has limited voluntary movement.\nBegin Case A\n\n\n\nCase B: Visual Impairment and Pain\nA patient does not have access to their glasses and is experiencing pain, discomfort, and difficulty communicating immediate needs.\nBegin Case B\n\n\n\nCase C: Spanish-Speaking Patient\nA patient who primarily communicates in Spanish needs assistance expressing basic needs and contacting family.\nBegin Case C\n\n\n\nCase D: Hearing Impairment\nA patient does not have access to their hearing aids and is having difficulty communicating with staff.\nBegin Case D"
+  },
+  {
+    "objectID": "simulations/sim4/index.html#additional-resources",
+    "href": "simulations/sim4/index.html#additional-resources",
+    "title": "Simulation 4: AAC Consultation",
+    "section": "Additional Resources",
+    "text": "Additional Resources\nReview AAC tools, clinical considerations, and documentation reminders before or during the activity.\nView AAC Resources"
   }
 ]

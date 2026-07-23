@@ -68,18 +68,29 @@ Students will complete:
 :::
 
 ::: {.chart-card}
-## 🗣 Simulation 4
+## 📱 Simulation 4
 
-### Speaking Valve Assessment
+### AAC Evaluation
 
-**Coming Soon**
+Patients in acute care may experience communication barriers related to motor impairment, sensory loss, language differences, pain, or medical status.
+
+Students will complete four website-based AAC consultation cases involving:
+
+- Quadriplegia and absent verbal communication
+- Visual impairment and pain communication
+- Spanish-language access
+- Hearing impairment
+
+Students will identify communication barriers, evaluate access abilities, select appropriate AAC supports, coordinate care, and document recommendations.
+
+[Begin Simulation 4](simulations/sim4/index.qmd)
 
 :::
 
 ::: {.chart-card}
-## 📱 Simulation 5
+## 🗣 Simulation 5
 
-### AAC Evaluation
+### Speaking Valve Assessment
 
 **Coming Soon**
 
